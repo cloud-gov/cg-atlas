@@ -6,7 +6,7 @@ Issues and artifacts related to deployment and operations of the cloud.gov platf
 ## Mission
 "We've got the world on our shoulders."
 
-![Atlas with the world on his shoulders and beasts looming near](http://radiozidul.ro/wp-content/uploads/2015/11/Atlas.jpg)
+![Atlas with the world on his shoulders and beasts looming near](http://greekmythologytoday.com/borisatlasL.jpg)
 
 Keep a solid, dependable, proven platform up and running strong for everyone in government to use.
 
